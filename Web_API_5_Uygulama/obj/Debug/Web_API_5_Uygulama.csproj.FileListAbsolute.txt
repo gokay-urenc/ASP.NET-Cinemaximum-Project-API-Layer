@@ -1,0 +1,138 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Web_API_5_Uygulama.dll.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Web_API_5_Uygulama.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Web_API_5_Uygulama.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csc.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csc.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csc.rsp
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csi.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csi.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csi.rsp
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.AppContext.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Console.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.IO.Compression.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.IO.Pipes.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Claims.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Threading.Thread.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.ValueTuple.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\vbc.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\vbc.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\vbc.rsp
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\VBCSCompiler.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\HtmlAgilityPack.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Newtonsoft.Json.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Net.Http.Formatting.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Web.Http.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Web.Http.WebHost.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\HtmlAgilityPack.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\HtmlAgilityPack.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Newtonsoft.Json.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Net.Http.Formatting.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Web.Http.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Web.Http.WebHost.xml
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\obj\Debug\Web_API_5_Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\obj\Debug\Web_API_5_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\obj\Debug\Web_API_5_Uygulama.csproj.CopyComplete
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\obj\Debug\Web_API_5_Uygulama.dll
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Web Applications\WEB API\Web_API_5_Uygulama\Web_API_5_Uygulama\obj\Debug\Web_API_5_Uygulama.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Web_API_5_Uygulama.dll.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Web_API_5_Uygulama.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Web_API_5_Uygulama.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csc.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csc.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csc.rsp
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csi.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csi.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\csi.rsp
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.AppContext.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Console.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.IO.Compression.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.IO.Pipes.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Claims.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Threading.Thread.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.ValueTuple.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Xml.XPath.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\vbc.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\vbc.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\vbc.rsp
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\VBCSCompiler.exe
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\HtmlAgilityPack.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Newtonsoft.Json.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Net.Http.Formatting.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Web.Http.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Web.Http.WebHost.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\HtmlAgilityPack.pdb
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\HtmlAgilityPack.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\Newtonsoft.Json.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Net.Http.Formatting.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Web.Http.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\bin\System.Web.Http.WebHost.xml
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\obj\Debug\Web_API_5_Uygulama.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\obj\Debug\Web_API_5_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\obj\Debug\Web_API_5_Uygulama.csproj.CopyComplete
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\obj\Debug\Web_API_5_Uygulama.dll
+C:\Users\casper\Desktop\Files\Applications\C#\Web Applications\Web API\Web_API_5_Uygulama\Web_API_5_Uygulama\obj\Debug\Web_API_5_Uygulama.pdb
